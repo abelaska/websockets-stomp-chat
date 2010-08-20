@@ -1,3 +1,9 @@
 hornetq-*/
+!hornetq-config/
 jetty-*/
+!jetty-config/
 socketpolicy/log
+log
+META-INF/
+hornetq-*.tar.gz
+jetty-*.zip
