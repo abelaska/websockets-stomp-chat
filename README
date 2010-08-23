@@ -1,6 +1,6 @@
 $ ./prepare.sh
 $ ./run-jetty.sh
-$ ./run-hornetw.sh
+$ ./run-hornetq.sh
 $ sudo socketpolicy/socketpolicy.pl
 
 Open in browser address http://127.0.0.1:8181/index.html
